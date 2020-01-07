@@ -3,6 +3,7 @@ radius = 2.2
 # area of circle equation <- this is a comment
 area = pi*(radius**2)
 print(area)
+# addiing some more comments from user-b
 
 # change values of radius <- another comment
 # use comments to help others understand what you are doing in code
