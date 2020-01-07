@@ -10,7 +10,7 @@ print(areax)
 radius = radius + 1
 print(area)     # area doesn't change
 area = pi*(radius**2)
-print(area)
+print(areay)
 
 
 #############################
